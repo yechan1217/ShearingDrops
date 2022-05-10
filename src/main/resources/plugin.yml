@@ -1,0 +1,4 @@
+name: ShearingDrops
+version: '${version}'
+main: com.koyeyu.shearingdrops.ShearingDrops
+api-version: 1.16
